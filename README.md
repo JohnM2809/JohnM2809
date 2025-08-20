@@ -1,7 +1,7 @@
 #John Mathew
 I'm a young dev from India, specialising in backend development, and actively exploring new things<br>
 
-<p align="center>
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmathewj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   </p>
 <p align="center">
