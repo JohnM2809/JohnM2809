@@ -1,11 +1,12 @@
 #John Mathew
 I'm a young dev from India, specialising in backend development, and actively exploring new things<br>
 
-
+<p align="center>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmathewj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  </p>
+<p align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=johnmathewj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=johnmathewj&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
