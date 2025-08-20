@@ -1,4 +1,4 @@
-#John Mathew
+<h1 align="center">John Mathew</h1>
 I'm a young dev from India, specialising in backend development, and actively exploring new things<br>
 
 
