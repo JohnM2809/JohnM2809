@@ -1,4 +1,7 @@
-<img align="center" source="name.gif"></img>
+<p align="center">
+<img source="name.gif">
+</p>
+
 ## I'm a young dev from India, specialising in backend development, and actively exploring new things
 <br>
 <br>
