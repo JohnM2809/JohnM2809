@@ -1,5 +1,5 @@
-<img align="center" src="name.gif">
-<p align="center">I'm a young dev from India, specialising in backend development, and actively exploring new things</p><br>
+<img align="center" source="name.gif"></img>
+## I'm a young dev from India, specialising in backend development, and actively exploring new things
 <br>
 <br>
 
