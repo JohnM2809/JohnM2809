@@ -4,7 +4,7 @@
 
 <h1 align="center">⚡ John Mathew ⚡</h1>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/code.gif" width="400" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/code.gif" width="400">
 
 ## 🚀 About Me
 - 🌟 Enthusiastic Creator | ✨ Innovator
