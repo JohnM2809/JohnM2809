@@ -24,9 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnAMathew&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-## 🎯 Projects in Focus
-- 🚀 [SuperAutomator](https://github.com/JohnAMathew/SuperAutomator) <br> <img src="https://media.giphy.com/media/l0MYEWpv7Ue0zQ7YQ/giphy.gif" width="270" />
-- 🌐 [My Portfolio](https://johnamathew.me)
+
 
 ---
 
