@@ -1,15 +1,37 @@
 <p align="center">
-<img source="name.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there,+I'm+John+Mathew!;Welcome+to+my+GitHub+playground+🏄" alt="Typing SVG">
 </p>
 
-## I'm a young dev from India, specialising in backend development, and actively exploring new things
-<br>
-<br>
+<h1 align="center">⚡ John Mathew ⚡</h1>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAMathew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAMathew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="400" align="right" />
 
+## 🚀 About Me
+- 🌟 Enthusiastic Creator | ✨ Innovator | 🎮 Gamer
+- 🐍 Python, ⚛️ React, 🐳 Docker, 🔥 Firebase fanatic
+- 🤖 Exploring AI, automations, and the future!
+- 📸 Taking & sharing travel shots in spare time!
 
+## 🧰 Toolbox
+![Skills](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Skills](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Skills](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Skills](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+## 📈 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnAMathew&show_icons=true&theme=radical" alt="John's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnAMathew&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+## 🎯 Projects in Focus
+- 🚀 [SuperAutomator](https://github.com/JohnAMathew/SuperAutomator) <br> <img src="https://media.giphy.com/media/l0MYEWpv7Ue0zQ7YQ/giphy.gif" width="270" />
+- 🌐 [My Portfolio](https://johnamathew.me)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=JohnAMathew.JohnAMathew" alt="visitor badge"/>
+  <br><br>
+  <img src="https://media.giphy.com/media/l1J9ur8zcbL3RdQ5u/giphy.gif" width="200" />
+</p>
