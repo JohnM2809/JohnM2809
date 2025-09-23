@@ -26,6 +26,5 @@
 ## 📈 Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnAMathew&show_icons=true&theme=radical" alt="John's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnAMathew&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
