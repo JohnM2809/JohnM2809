@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <h3>🚀 AI Specialist & Python Developer</h3>
+  <h3>🚀 Python Developer</h3>
   <p>Student | Builder | API Enthusiast</p>
   
   <a href="https://github.com/JohnM2809" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" height="50" alt="GitHub" style="margin: 0 15px;" />
   </a>
-  &nbsp;&nbsp;&nbsp; <a href="https://monkeytype.com/profile/JohnM2809" target="_blank">
+  &nbsp;&nbsp;&nbsp; <a href="https://monkeytype.com/profile/johndash" target="_blank">
     <img src="https://cdn.simpleicons.org/monkeytype/E2B714" height="50" alt="Monkeytype" style="margin: 0 15px;" />
   </a>
 </div>
