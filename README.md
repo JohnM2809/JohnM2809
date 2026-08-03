@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm John ðŸ‘‹
+# Hey, I'm John!‘‹
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+things+that+probably+took+longer+than+they+should.;Learner+by+day%2C+builder+by+night.;Coding+by+passion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+things+that+probably+took+longer+than+they+should.;Learner+by+day%2C+builder+by+night.;Coding+by+passion" alt="Typing SVG" />
 
 </div>
 
@@ -12,17 +12,17 @@
 
 I'm a student splitting time between studies and building things I don't strictly need to build, just to see if I can. Python's home base, but I'll pick up whatever a project actually calls for.
 
-**Portfolio â†’** [johnm2809.github.io](https://johnm2809.github.io)
+**Portfolio** [johnm2809.github.io](https://johnm2809.github.io)
 
 <br>
 
-### ðŸ”­ Currently building
+### Currently building
 
-**Onyx** â€” a voice-controlled AI assistant that runs my computer and every light in the house. 1000+ lines, my biggest solo build yet. Pushing it here soon.
+**Onyx**, a voice-controlled AI assistant that runs my computer and every light in the house. 1000+ lines, my biggest solo build yet. Pushing it here soon.
 
 <br>
 
-### ðŸ“Œ A few things I've shipped
+### A few things I've shipped
 
 | Project | What it does |
 |---|---|
@@ -33,7 +33,7 @@ I'm a student splitting time between studies and building things I don't strictl
 
 <br>
 
-### ðŸ› ï¸ Stack
+###  Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-1c1e25?style=for-the-badge&logo=python&logoColor=C9A227" />
@@ -46,13 +46,13 @@ I'm a student splitting time between studies and building things I don't strictl
 
 <br>
 
-### ðŸ† My sidequests!
+### My sidequests!
 
-**Full list â†’** [johnm2809.github.io/achievements.html](https://johnm2809.github.io/achievements.html)
+**Full list** [johnm2809.github.io/achievements.html](https://johnm2809.github.io/achievements.html)
 
 <br>
 
-### ðŸ“¬ Reach me
+### ¬ Reach me
 
 <p>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1c1e25?style=for-the-badge&logo=gmail&logoColor=C9A227" /></a>
