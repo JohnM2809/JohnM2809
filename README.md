@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm John!‘‹
+# Hey, I'm John!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+things+that+probably+took+longer+than+they+should.;Learner+by+day%2C+builder+by+night.;Coding+by+passion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+things+,+Breaking+things+along+the+way.;Learner+by+day%2C+builder+by+night.;Coding+by+passion" alt="Typing SVG" />
 
 </div>
 
