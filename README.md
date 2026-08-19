@@ -62,6 +62,4 @@ I'm a student splitting time between studies and building things I don't strictl
 
 <br>
 
-<div align="center">
-<sub>Built things, broke a few, learned from all of it.</sub>
-</div>
+
