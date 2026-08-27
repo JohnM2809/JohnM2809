@@ -26,7 +26,7 @@ I'm a student splitting time between studies and building things I don't strictl
 
 | Project | What it does |
 |---|---|
-| **[YouScribe](https://github.com/JohnM2809/YouScribe)** | Desktop app that transcribes and summarizes YouTube videos and articles |
+| **[P.U.L.S.E](https://github.com/JohnM2809/P.U.L.S.E)** | Award-winning student monitoring system that analyzes attendance, academics, and missed work to identify students needing support |
 | **[LearnTree](https://github.com/JohnM2809/LearnTree)** | AI-powered revision platform â€” explanations, practice, flashcards |
 | **[HandWave](https://github.com/JohnM2809/HandWave)** | Virtual mouse controlled entirely by hand gestures |
 | **[Sortify](https://github.com/JohnM2809/Sortify)** | Script that auto-organizes files into folders by type |
